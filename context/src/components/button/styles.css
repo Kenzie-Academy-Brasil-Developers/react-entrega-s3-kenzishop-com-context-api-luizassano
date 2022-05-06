@@ -1,0 +1,15 @@
+button{
+	width: 100px;
+	height: 25px;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 16px;
+	color: #FFFFFF;
+	background-color: red;
+
+
+}
+button:hover{
+	background-color: lightcoral;
+	letter-spacing: 2px;
+}
